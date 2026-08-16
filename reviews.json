@@ -3,5 +3,10 @@
     "count": 22,
     "last_detection": "Never",
     "status": "Working"
+  },
+  "basic": {
+    "count": 18,
+    "last_detection": "Never",
+    "status": "Working"
   }
 }
